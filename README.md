@@ -4,7 +4,7 @@ Small demo project for version control, branching, and PR workflow.
 
 ## Installation
 1. Clone the repo.
-2. Open `index.html` in a browser.
+2. Open index.html and check the console for the message.
 
 ## Usage
 Open the browser DevTools console to see the startup message.
