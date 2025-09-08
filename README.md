@@ -34,24 +34,16 @@ For any contribution, please follow these guidelines:
 
 1. Create a feature branch for any new changes: 
    ```bash
-   Copy code
     git checkout -b feature/your-feature-name
     Commit Messages
 
 2. Follow the format:
 
-    vbnet
-
-    Copy code
-    
     type: short description
     
     Types: feat, fix, docs, style, refactor
 
-3. Example:
-
-    csharp
-    Copy code
+  Example:
     feat: add new about page
     Pull Requests
 
