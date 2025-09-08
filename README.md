@@ -26,7 +26,9 @@ Open the Developer Tools console (F12 or Ctrl+Shift+I in most browsers).
 2. You should see:
 
     pgsql
+
     Copy code
+
     CSP451 CheckPoint 1: JavaScript loaded successfully.
 
 ## 🤝 Contributing
@@ -43,8 +45,11 @@ For any contribution, please follow these guidelines:
 2. Follow the format:
 
     vbnet
+
     Copy code
+    
     type: short description
+    
     Types: feat, fix, docs, style, refactor
 
 3. Example:
