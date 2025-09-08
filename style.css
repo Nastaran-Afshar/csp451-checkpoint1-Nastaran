@@ -1,2 +1,5 @@
 body{font-family:system-ui,Arial,sans-serif;background:#fafafa;color:#222;margin:0;padding:2rem}
 h1{margin:0 0 1rem}
+main { max-width: 60ch; padding: 1rem; }
+header { padding: 1rem; border-bottom: 1px solid #ddd; }
+nav a { margin-right: .5rem; }
