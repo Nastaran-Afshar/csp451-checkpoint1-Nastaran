@@ -1,4 +1,4 @@
-# CSP451 CheckPoint 1 — YourName
+# CSP451 CheckPoint 1 — Nastaran Mohammadiafshar
 
 Small demo project for version control, branching, and PR workflow.
 
