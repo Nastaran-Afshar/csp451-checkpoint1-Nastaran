@@ -23,11 +23,7 @@ or open it via a local development server.
 
 Open the Developer Tools console (F12 or Ctrl+Shift+I in most browsers).
 
-2. You should see:
-
-    pgsql
-
-    Copy code
+2. Under the Console tab, you should see:
 
     CSP451 CheckPoint 1: JavaScript loaded successfully.
 
